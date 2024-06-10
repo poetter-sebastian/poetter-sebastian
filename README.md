@@ -42,9 +42,7 @@ My name is Sebastian Pötter. I recently completed my master's degree in compute
 
 **✨ Stats ✨**
 
-![snake animation](https://github.com/poetter-sebastian/poetter-sebastian/blob/output/github-contribution-grid-snake2.svg)
-
-![poetter sebastian's activity](https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![poetter sebastian's activity](https://raw.githubusercontent.com/poetter-sebastian/poetter-sebastian/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ![poetter sebastian's visitor counter](https://komarev.com/ghpvc/?username=poetter-sebastian&color=green&style=flat-square&label=Profile+pokes)
 
