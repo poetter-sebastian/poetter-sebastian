@@ -46,6 +46,4 @@ My name is Sebastian Pötter. I recently completed my master's degree in compute
 
 ![poetter sebastian's visitor counter](https://komarev.com/ghpvc/?username=poetter-sebastian&color=green&style=flat-square&label=Profile+pokes)
 
-![poetter sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=poetter-sebastian&show_icons=true&theme=chartreuse-dark)
-
-![poetter sebastian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=poetter-sebastian&layout=compact&theme=chartreuse-dark)
+[![poetter sebastian's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/poetter-sebastian?cardType=level-alternate&theme=bear&fontFamily=Google%20Sans&preferLogin=false)]([https://git.io/awesome-stats-card](https://poetter-sebastian.github.io/))
